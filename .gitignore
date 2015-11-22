@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#python login_dict
+login_dict.py
+
+
 # =========================
 # Operating System Files
 # =========================
